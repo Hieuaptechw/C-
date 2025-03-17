@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ManageCar\bin\Debug\net8.0\ManageCar.exe
+C:\Users\Admin\source\repos\ManageCar\bin\Debug\net8.0\ManageCar.deps.json
+C:\Users\Admin\source\repos\ManageCar\bin\Debug\net8.0\ManageCar.runtimeconfig.json
+C:\Users\Admin\source\repos\ManageCar\bin\Debug\net8.0\ManageCar.dll
+C:\Users\Admin\source\repos\ManageCar\bin\Debug\net8.0\ManageCar.pdb
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ManageCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ManageCar.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ManageCar.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ManageCar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ManageCar.dll
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\refint\ManageCar.dll
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ManageCar.pdb
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ManageCar.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ManageCar\obj\Debug\net8.0\ref\ManageCar.dll
